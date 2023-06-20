@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "PCF8575/pico-sdk/docs",
+		"source" : "F:/PICO/pico-sdk/docs"
+	}
+}

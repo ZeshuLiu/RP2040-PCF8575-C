@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "PCF8575/pico-sdk/src/common/boot_picoboot",
+		"source" : "F:/PICO/pico-sdk/src/common/boot_picoboot"
+	}
+}
